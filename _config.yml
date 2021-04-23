@@ -1,10 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Putta Bhanu Prakash
+theme: minima
+author: theharrypotter1999
+email: bhanu.putta1999@gmai.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a free-spirited and adventurous person. I believe in living 
+  life to the fullest and don’t let barriers of customs and language 
+  stop me from having great experiences. I keep learning new stuff 
+  every day. I love inspiring people with my work and sincerity.
+  
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
